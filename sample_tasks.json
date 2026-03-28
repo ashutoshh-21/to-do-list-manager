@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Submit ML Assignment",
+    "description": "Complete all questions in Unit 3 assignment",
+    "priority": "high",
+    "category": "College",
+    "due_date": "2025-06-10",
+    "completed": 0,
+    "created_at": "2025-05-28 09:00:00",
+    "completed_at": null
+  },
+  {
+    "title": "Read Chapter 5 - Neural Networks",
+    "description": "Focus on backpropagation section",
+    "priority": "medium",
+    "category": "Study",
+    "due_date": "2025-06-05",
+    "completed": 0,
+    "created_at": "2025-05-28 09:05:00",
+    "completed_at": null
+  },
+  {
+    "title": "Buy groceries",
+    "description": "Milk, bread, eggs, vegetables",
+    "priority": "low",
+    "category": "Personal",
+    "due_date": null,
+    "completed": 1,
+    "created_at": "2025-05-27 10:00:00",
+    "completed_at": "2025-05-27 18:30:00"
+  },
+  {
+    "title": "Lab submission - Python Basics",
+    "description": "Upload to Moodle before deadline",
+    "priority": "high",
+    "category": "College",
+    "due_date": "2025-06-01",
+    "completed": 0,
+    "created_at": "2025-05-26 08:00:00",
+    "completed_at": null
+  },
+  {
+    "title": "Exercise - 30 min walk",
+    "description": "",
+    "priority": "low",
+    "category": "Health",
+    "due_date": null,
+    "completed": 1,
+    "created_at": "2025-05-28 07:00:00",
+    "completed_at": "2025-05-28 07:35:00"
+  }
+]
